@@ -1,0 +1,6 @@
+{
+  "name": "nashorn-commonjs-modules",
+  "version": "1.0.4",
+  "description": "CommonJS modules implementation for Nashorn",
+  "dependencies": {}
+}
